@@ -1,0 +1,15 @@
+.App {
+  font-family: "Lucida console";
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  border: 2px solid black;
+}
+
+body {
+  background-color: lightslategray;
+  margin: 0;
+}
